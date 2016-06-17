@@ -30,6 +30,6 @@ where all inputs and outputs are a member of [0,1)
 
 This is still a proof of concept and **very much a work in progress**. It is clear that the success of such a neural network is still unproven and predictions may well be arbitrary due  to the stochastic nature of the training data.
 
-Work by Thom. 17/06/2016 [@thomx128]
+Work by Thom. 17/06/2016 [@thomx128](https://www.twitter.com/@thomx128)
 
 
